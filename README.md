@@ -1,0 +1,1 @@
+This Flask-based web application predicts the best crop to cultivate based on input features like Nitrogen, Phosphorus, Potassium, Temperature, Humidity, pH, and Rainfall. It loads a pre-trained machine learning model and scalers to process the input data and predicts the optimal crop based on the processed features.
